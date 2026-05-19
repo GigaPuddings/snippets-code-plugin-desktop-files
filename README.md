@@ -3,9 +3,9 @@
 Official installable plugin package for Snippets Code.
 
 - Plugin ID: `desktop-files`
-- Version: `2.0.0`
+- Version: `2.0.1`
 - Source: `docs/plugin-packages/desktop-files`
-- App compatibility: `>=2.0.0`
+- App compatibility: `>=2.0.1`
 
 Install URL:
 
@@ -16,7 +16,7 @@ https://github.com/GigaPuddings/snippets-code-plugin-desktop-files/archive/refs/
 Versioned release URL:
 
 ```text
-https://github.com/GigaPuddings/snippets-code-plugin-desktop-files/archive/refs/tags/2.0.0.zip
+https://github.com/GigaPuddings/snippets-code-plugin-desktop-files/archive/refs/tags/2.0.1.zip
 ```
 
 This repository is synchronized from the main application repository by
